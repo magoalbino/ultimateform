@@ -1,6 +1,7 @@
 # Ultimate react hook form
 
 Building form components with react-hook-form for upload files, dynamic fields and input masks
+(still needs some layout adjustments)
 
 ## Available Scripts
 
