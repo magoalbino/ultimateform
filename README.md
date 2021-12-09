@@ -1,4 +1,4 @@
-# Ultimate react hook form
+# Ultimate react hook form (with typescript)
 
 - Building form components with react-hook-form and Material-Ui V5 for upload files (with drag and drop), dynamic fields and input masks 
 - Manual input mask (creating a function for each mask in onChange) its not perfect, but it seems more performatic than react-input-mask
