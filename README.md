@@ -1,7 +1,17 @@
 # Ultimate react hook form
 
-Building form components with react-hook-form for upload files, dynamic fields and input masks
-(still needs some layout adjustments)
+- Building form components with react-hook-form and Material-Ui V5 for upload files (with drag and drop), dynamic fields and input masks 
+- Manual input mask (creating a function for each mask in onChange) its not perfect, but it seems more performatic than react-input-mask
+- Still needs some layout adjustments
+
+## External libraries
+
+- @mui/material
+- react-hook-form ( and @hookform/resolvers )
+- yup
+- react-dropzone (for file upload)
+- react-router-dom (v6)
+- sweetalert2
 
 ## Available Scripts
 
